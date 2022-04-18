@@ -1,0 +1,4 @@
+NIK|NAMA LENGKAP
+12345|wahid
+54321|Adit
+2000|Irawan
